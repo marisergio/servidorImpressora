@@ -4,10 +4,9 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Marisergio/Documents/NetBeansProjects/Servidor1/src/servidor1/Servidor1.java</file>
-            <file>file:/C:/Users/Marisergio/Documents/NetBeansProjects/Servidor1/src/util/enumConfi/StatusMensagem.java</file>
+            <file>file:/C:/Users/Marisergio/Documents/NetBeansProjects/Servidor1/src/util/MensagemImprimir.java</file>
             <file>file:/C:/Users/Marisergio/Documents/NetBeansProjects/Servidor1/src/util/Mensagem.java</file>
-            <file>file:/C:/Users/Marisergio/Documents/NetBeansProjects/Servidor1/src/util/enumConfi/QualidadeImpressao.java</file>
-            <file>file:/C:/Users/Marisergio/Documents/NetBeansProjects/Servidor1/src/util/enumConfi/Impressoras.java</file>
+            <file>file:/C:/Users/Marisergio/Documents/NetBeansProjects/Servidor1/src/util/enumConfi/Operacao.java</file>
         </group>
     </open-files>
 </project-private>

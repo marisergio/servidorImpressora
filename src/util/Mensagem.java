@@ -1,17 +1,15 @@
 
 package util;
 
+import java.io.Serializable;
 import util.enumConfi.Impressoras;
+import util.enumConfi.Operacao;
 import util.enumConfi.QualidadeImpressao;
 import util.enumConfi.StatusMensagem;
 
-public class Mensagem {
+public class Mensagem implements Serializable{
     
-    public String conteudo;
-    public Integer numeroCopias;
-    public Impressoras modeloImpressora;
+    public Operacao operacao;
     public StatusMensagem statusMensagem;
-    public Boolean frenteVerso;
-    public QualidadeImpressao qualidade;
     
 }
